@@ -3,7 +3,6 @@
 menit here !
 
 - 🔭 I’m currently working on [Oz-Engine](https://github.com/menitoon/Oz-Engine)
-- 📫 How to reach me: #menitoon9107
+- 📫 How to reach me: **#menitoon9107** or **menitoine@gmail.com** 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 🤣 I can't sleep because I don't know about sinus and cosinus. 
 
